@@ -12,6 +12,10 @@ In this lab, you will orchestrate the application you built previously using **K
 
 ---
 
+## 2. Phase 0: Instance Setup
+
+We need to setup an EC2 instance for this lab with a size t2.micro at least.
+
 ## 2. Phase 1: Environment Setup (Amazon Linux)
 
 We need to install the Kubernetes tools (`kubectl`) and the cluster environment (`minikube`).
